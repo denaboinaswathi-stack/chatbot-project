@@ -25,3 +25,21 @@ A simple AI chatbot developed using Python that provides automated responses to 
 4. If a matching keyword is found, the chatbot selects a suitable response.
 5. If no match is found, the chatbot returns a default message.
 6. The conversation continues until the user types "bye".
+
+
+## Skills Demonstrated
+- Python Programming
+- Basic Artificial Intelligence Concepts
+- Chatbot Development
+- Problem Solving
+- User Input Processing
+
+## Future Enhancements
+- Add Natural Language Processing (NLP)
+- Implement Machine Learning-based responses
+- Integrate LLM models
+- Add voice assistant capabilities
+- Develop a web-based chatbot interface
+
+## Author
+Swathi Denaboina
